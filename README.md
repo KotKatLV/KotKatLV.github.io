@@ -1,2 +1,2 @@
 # KotKatLV.github.io
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?KotKatLV=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=KotKatLV)](https://github.com/anuraghazra/github-readme-stats)
